@@ -1,1 +1,1 @@
-![black cat gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM2dDRhZ3MxYjBwb3lsd290ZHJ4d2Fxc3I4bzAwdTQ3Z2J0cnBrdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmgHHxtKgDsYrVsEOw/giphy.gif){style="display: block; margin: 0 auto;"}
+![black cat gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM2dDRhZ3MxYjBwb3lsd290ZHJ4d2Fxc3I4bzAwdTQ3Z2J0cnBrdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmgHHxtKgDsYrVsEOw/giphy.gif)
